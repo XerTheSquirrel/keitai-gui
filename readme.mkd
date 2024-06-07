@@ -1,0 +1,20 @@
+# Keitai GUI
+
+GUI wrapper for Keitai Feature Phone dumping and other related
+utilities created by SciLab Secrets.
+
+GUI tool written by Stephanie Gawroriski of SciLab Secrets.
+
+## Tools wrapped
+
+ * <https://github.com/usernameak/keitai_fs_tools>
+   * _kagekiyo7_
+   * _/bin/cat_ (_usernameak_)
+ * <https://github.com/ktdumper/ktdumper>
+   * _kagekiyo7_
+   * _MemoryHunter_ (_memory-hunter_)
+   * _LNRC_ (_Unabandonware_)
+   * _xyzz_
+ * <https://github.com/ktdumper/fs-tools>
+   * _MemoryHunter_ (_memory-hunter_)
+   * _xyzz_
