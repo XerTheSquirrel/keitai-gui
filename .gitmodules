@@ -1,0 +1,9 @@
+[submodule "lib/libkeitaifstools/src"]
+	path = lib/libkeitaifstools/src
+	url = https://github.com/usernameak/keitai_fs_tools
+[submodule "lib/libfstools/src"]
+	path = lib/libfstools/src
+	url = https://github.com/ktdumper/fs-tools
+[submodule "lib/ktdumper/src"]
+	path = lib/ktdumper/src
+	url = https://github.com/ktdumper/ktdumper
