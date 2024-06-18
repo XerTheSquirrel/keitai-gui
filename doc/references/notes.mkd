@@ -1,0 +1,4 @@
+# Notes
+
+ * `ktdumper` needs `python3-usb`, `python3-tqdm`, and `python3-fusepy` to be
+   installed.
