@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/stephanie/Projects/ktdumper/ktdumper/ktdumper.py", line 36, in <module>
+    main()
+  File "/home/stephanie/Projects/ktdumper/ktdumper/ktdumper.py", line 15, in main
+    return dev.execute(args)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/stephanie/Projects/ktdumper/ktdumper/device.py", line 20, in execute
+    raise RuntimeError("Cannot find '{}' (vid=0x{:04X} pid=0x{:04X}), is the phone connected?".format(self.name, self.vid, self.pid))
+RuntimeError: Cannot find 'p-07b' (vid=0x04DA pid=0x216B), is the phone connected?

@@ -133,3 +133,7 @@ nbdist/
 out/
 replay_pid*
 xcuserdata/
+/.idea/modules/gui/keitai-gui.gui.main.iml
+/.idea/modules/lib/keitai-gui.lib.main.iml
+/.idea/modules/lib/keitai-gui.lib.test.iml
+/.idea/modules.xml

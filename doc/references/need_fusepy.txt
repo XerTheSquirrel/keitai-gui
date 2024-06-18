@@ -1,0 +1,17 @@
+stephanie@larchtree:~/Projects/ktdumper$ ./ktdumper.sh
+Traceback (most recent call last):
+  File "/home/stephanie/Projects/ktdumper/ktdumper/ktdumper.py", line 4, in <module>
+    from devices import DEVICES
+  File "/home/stephanie/Projects/ktdumper/ktdumper/devices.py", line 18, in <module>
+    from dump.pipl_emmc_fuse import PiplEmmcFuse
+  File "/home/stephanie/Projects/ktdumper/ktdumper/dump/pipl_emmc_fuse.py", line 9, in <module>
+    from fusepy import FUSE, FuseOSError, Operations, fuse_get_context
+ModuleNotFoundError: No module named 'fusepy'
+stephanie@larchtree:~/Projects/ktdumper$ sudo aptitude
+Performing actions...
+Selecting previously unselected package python3-fusepy.
+(Reading database ... 316899 files and directories currently installed.)
+Preparing to unpack .../python3-fusepy_3.0.1-5_all.deb ...
+Unpacking python3-fusepy (3.0.1-5) ...
+Setting up python3-fusepy (3.0.1-5) ...
+Press Return to continue, 'q' followed by Return to quit.

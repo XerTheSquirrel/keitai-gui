@@ -1,0 +1,58 @@
+stephanie@larchtree:~/Projects/ktdumper$ ./ktdumper.sh
+Usage: ./ktdumper.sh <device> <payload>
+
+List of supported devices and payloads:
+- n900i: dump_nand, dump_nor
+- n900is: dump_nand, dump_nor
+- p900i: dump_nand, dump_nor
+- p900iv: dump_nand, dump_nor
+- n701i: dump_nand, dump_nor
+- p851i: dump_nand, dump_nor
+- n901is: dump_nand, dump_nor
+- p901is: dump_nand, dump_nor, dump_rom
+- p702i: dump_nand, dump_nor, dump_rom
+- p902i: dump_nand, dump_nor, dump_rom
+- p903i: dump_nand, dump_nor
+- p903itv: dump_nand, dump_nor
+- p904i: dump_nand, dump_nor
+- n904i: dump_nand, dump_nor, dump_rom
+- p704i: dump_nand, dump_nor
+- n-01a: dump_nand, dump_nor
+- n-02a: dump_nand, dump_nand_slow, dump_nor, dump_nor_slow, nand_id
+- n-06a: dump_nand, dump_nor
+- n-08a: dump_nand, dump_nor
+- n-03b: dump_nand, dump_nor
+- p-01a: dump_nand, dump_nor, onenand_id
+- p-03a: dump_nand, dump_nor, onenand_id
+- p-04a: dump_nand, dump_nor, onenand_id
+- p-10a: dump_nand, dump_nor, onenand_id
+- p-01b: dump_nand_a, dump_nand_b, dump_rom
+- p-02b: dump_nand_a, dump_nand_b, dump_rom, onenand_id_a, onenand_id_b
+- p-03b: dump_nand, dump_rom
+- p-04b: dump_nand_a, dump_nand_b, dump_rom
+- p-07b: dump_nand, dump_rom, onenand_id
+- p-06c: dump_nand, dump_nand_peek_poke, dump_rom, onenand_id
+- p-01f: dump_emmc, dump_rom, fuse_user
+- p-01g: dump_emmc, dump_rom
+- p-01h: dump_emmc, dump_rom
+- 942p: dump_nand_a, dump_nand_b, dump_rom
+- 930p: dump_nand, dump_rom
+- 301p: dump_emmc, dump_rom
+- 930ca: dump_nand, dump_nor
+- 940p: dump_nand_a, dump_nand_b, dump_rom
+- sh-07f: jump_symbian
+- f902i: dump_java
+- f905i: dump_java
+- f906i: dump_java
+- f884ies: dump_java
+- f-04a: dump_java
+- f-07a: dump_java
+- f-10a: dump_java
+- d702i: dump_java
+- d703i: dump_java
+- d704i: dump_java
+- d705i: dump_java
+- d705iu: dump_java
+- d902i: dump_java
+- d903itv: dump_java
+- d905i: dump_java

@@ -1,0 +1,26 @@
+stephanie@larchtree:~/Projects/ktdumper$ ./ktdumper.sh
+Traceback (most recent call last):
+  File "/home/stephanie/Projects/ktdumper/ktdumper/ktdumper.py", line 4, in <module>
+    from devices import DEVICES
+  File "/home/stephanie/Projects/ktdumper/ktdumper/devices.py", line 4, in <module>
+    from dump.nec_memory_dumper import NecMemoryDumper
+  File "/home/stephanie/Projects/ktdumper/ktdumper/dump/nec_memory_dumper.py", line 1, in <module>
+    import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+stephanie@larchtree:~/Projects/ktdumper$ sudo apt-get install python3-tqdm
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  python3-tqdm
+0 upgraded, 1 newly installed, 0 to remove and 354 not upgraded.
+Need to get 90.8 kB of archives.
+After this operation, 498 kB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian trixie/main riscv64 python3-tqdm all 4.66.4-1 [90.8 kB]
+Fetched 90.8 kB in 0s (683 kB/s)
+Selecting previously unselected package python3-tqdm.
+(Reading database ... 316798 files and directories currently installed.)
+Preparing to unpack .../python3-tqdm_4.66.4-1_all.deb ...
+Unpacking python3-tqdm (4.66.4-1) ...
+Setting up python3-tqdm (4.66.4-1) ...
+Processing triggers for man-db (2.12.1-2) ...
