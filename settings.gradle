@@ -1,2 +1,4 @@
 include "lib"
+include "core"
+include "cli"
 include "gui"

@@ -1,0 +1,498 @@
+[
+  {
+    "name": "n900i",
+    "vid": "0409",
+    "pid": "0112",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n900is",
+    "vid": "0409",
+    "pid": "0121",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p900i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p900iv",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n701i",
+    "vid": "0409",
+    "pid": "0142",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p851i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n901is",
+    "vid": "0409",
+    "pid": "0144",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p901is",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p702i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p902i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p903i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p903itv",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p903itv",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n904i",
+    "vid": "0409",
+    "pid": "0200",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p704i",
+    "vid": "0a3c",
+    "pid": "000d",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n-01a",
+    "vid": "0409",
+    "pid": "0240",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n-02a",
+    "vid": "0409",
+    "pid": "025c",
+    "commands": [
+      "dump_nand",
+      "dump_nand_slow",
+      "dump_nor",
+      "dump_nor_slow",
+      "nand_id"
+    ]
+  },
+  {
+    "name": "n-06a",
+    "vid": "0409",
+    "pid": "0274",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n-08a",
+    "vid": "0409",
+    "pid": "026c",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "n-03b",
+    "vid": "0409",
+    "pid": "02a0",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "p-01a",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "onenand_id"
+    ]
+  },
+  {
+    "name": "p-03a",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "onenand_id"
+    ]
+  },
+  {
+    "name": "p-04a",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "onenand_id"
+    ]
+  },
+  {
+    "name": "p-10a",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_nor",
+      "onenand_id"
+    ]
+  },
+  {
+    "name": "p-01b",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_nand_3",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-02b",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_nand_3",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-03b",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-04b",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_nand_3",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-07b",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-06c",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand",
+      "dump_nand_peek_poke",
+      "dump_rom",
+      "onenand_id"
+    ]
+  },
+  {
+    "name": "p-01f",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_emmc",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-01g",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_emmc",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "p-01h",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_emmc",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "942p",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_nand_3",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "930p",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "301p",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_emmc",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "930ca",
+    "vid": "1967",
+    "pid": "2004",
+    "commands": [
+      "dump_nand",
+      "dump_nor"
+    ]
+  },
+  {
+    "name": "940p",
+    "vid": "04da",
+    "pid": "216b",
+    "commands": [
+      "dump_nand_1",
+      "dump_nand_2",
+      "dump_nand_3",
+      "dump_rom"
+    ]
+  },
+  {
+    "name": "sh-07f",
+    "vid": "04dd",
+    "pid": "9464",
+    "commands": [
+      "jump_symbian"
+    ]
+  },
+  {
+    "name": "f902i",
+    "vid": "04c5",
+    "pid": "10ce",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f905i",
+    "vid": "04c5",
+    "pid": "1128",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f906i",
+    "vid": "04c5",
+    "pid": "115d",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f884ies",
+    "vid": "04c5",
+    "pid": "1199",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f-04a",
+    "vid": "04c5",
+    "pid": "115e",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f-07a",
+    "vid": "04c5",
+    "pid": "115f",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "f-10a",
+    "vid": "04c5",
+    "pid": "1162",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d702i",
+    "vid": "06d3",
+    "pid": "2100",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d703i",
+    "vid": "06d3",
+    "pid": "2160",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d704i",
+    "vid": "06d3",
+    "pid": "21a0",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d705i",
+    "vid": "06d3",
+    "pid": "21d0",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d705iu",
+    "vid": "06d3",
+    "pid": "21c0",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d902i",
+    "vid": "06d3",
+    "pid": "20b0",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d903itv",
+    "vid": "06d3",
+    "pid": "2170",
+    "commands": [
+      "dump_java"
+    ]
+  },
+  {
+    "name": "d905i",
+    "vid": "06d3",
+    "pid": "21b0",
+    "commands": [
+      "dump_java"
+    ]
+  }
+]
+

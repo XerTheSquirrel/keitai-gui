@@ -6,4 +6,4 @@
 	url = https://github.com/ktdumper/fs-tools
 [submodule "lib/ktdumper/src"]
 	path = lib/ktdumper/src
-	url = https://github.com/ktdumper/ktdumper
+	url = https://github.com/XerTheSquirrel/ktdumper.git
